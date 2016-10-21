@@ -1,4 +1,3 @@
-csc467 Lab 1
+csc467 Compilers and Interpreters
 ============
-Justin Canton, 1000017910
-Samprit Raihan, 998138830
+Justin Canton, Samprit Raihan
